@@ -30,4 +30,4 @@ Feel free to reach out to me with any question you might have!
 
 * [A Very Short Introduction to LaTeX](/latex): A concise workshop on creating scientific documents with LaTeX.
 
-* [Scraping the Web with Python](/scraper): A short workshop on how to collect and store data from webpages using Python. 
+* [Scraping the Web](/scraper): A short workshop on how to collect and store data from webpages using Python. 
