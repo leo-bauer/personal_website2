@@ -5,9 +5,9 @@ is_contact: true
 
 * [leobauer@umd.com](mailto:leobauer@umd.com)
 
-* [Twitter](https://twitter.com/leo__ba)
+* [Twitter](https://twitter.com/leo__ba){:target="_blank"}{:rel="noopener noreferrer"}
 
-* [GitHub](https://github.com/leo-bauer)
+* [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
 
 ---
 
