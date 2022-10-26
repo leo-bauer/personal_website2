@@ -24,7 +24,7 @@ Feel free to reach out to me with any question you might have!
 
 ## Current Projects
 
-* XXX
+* [Predicting Fact-checking Results Using BERT Language Models](https://ilcss.umd.edu/political-communication/): A project to better understand disinformation and the impact of counter-strategies.
 
 ## Talks & Workshops
 
