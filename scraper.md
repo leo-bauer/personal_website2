@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Scraping HTML Pages Using Python
+## Scraping the Web with Python
 
 Coming soon!
