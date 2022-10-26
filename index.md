@@ -26,9 +26,9 @@ Feel free to reach out to me with any question you might have!
 
 * [Predicting Fact-checking Results Using BERT Language Models](https://ilcss.umd.edu/political-communication/){:target="_blank"}{:rel="noopener noreferrer"}: A project to better understand disinformation and the impact of counter-strategies.
 
-* Mediation and Conflict Prevention Data Project
+* [Mediation and Conflict Prevention Data Project](/mediation): A data project on mediation events in self-determination disputes.
 
-* Scraping the Archive of German Far-right Weekly Junge Freiheit
+* [Scraping the Archive of German Far-right Weekly Junge Freiheit](/jf): A webscraper in Python to collect text data from Germany’s biggest weekly far-right newspaper.
 
 ## Talks & Workshops
 
