@@ -24,7 +24,7 @@ You can find my CV [here](/cv_bauer.pdf){:target="_blank"}{:rel="noopener norefe
 
 3. “Rebel Actors and Legitimacy Building.” 2022. With Kathleen Gallagher Cunningham and Margaret McWeeney. Working paper.
 
-## Current Projects
+## Recent Projects
 
 * [Predicting Fact-checking Results Using BERT Language Models](https://ilcss.umd.edu/political-communication/){:target="_blank"}{:rel="noopener noreferrer"}: A project to better understand disinformation and the impact of counter-strategies.
 
