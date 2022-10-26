@@ -6,40 +6,18 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi there! Thank you for stopping by to check my website.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I’m a doctoral student in the [Department of Government and Politics at the University of Maryland, College Park](https://gvpt.umd.edu/). I study the behavior of rebel groups in intrastate conflict, with a particular emphasis on rebel governance. Specifically, I explore the impact of rebel governance on violence against civilians as well as the politics of redistribution under rebel rule. I study these topics by relying on quantitative and computational methodologies.
 
-## Research Interest
+My enthusiasm for computational social science has also led to several collaborative projects that lie apart from my current research agenda. I have built custom web scrapers to collect data from newspapers, employed topic modeling to explore large corpora of text and trained cutting-edge language models for classification tasks. One of these projects has made it into a paper that is currently under review.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Feel free to reach out to me with any question you might have!
 
-## Publications
+## Works in Progress
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+## Projects
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Talks & Workshops
