@@ -3,24 +3,20 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* [leobauer@umd.com](mailto:leobauer@umd.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* [Twitter](https://twitter.com/leo__ba)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* [GitHub](https://github.com/leo-bauer)
 
 ---
 
-## Social
+## Department Mailing Address
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> University of Maryland, 3140 Tydings Hall
+>
+> 7343 Preinkert Drive
+>
+> College Park, MD 20742
+>
+> United States
