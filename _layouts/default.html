@@ -59,7 +59,7 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" style="text-decoration: none;">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" style="text-decoration: none">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
@@ -85,7 +85,7 @@
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: center; margin-bottom: 10px">
-                    <a style="color: black" style="text-decoration: none;"><small>{{ site.footer_text }}</small></a>
+                    <a style="color: black; text-decoration: none"><small>{{ site.footer_text }}</small></a>
                     </p>
                 {% endif %}
             </div>
