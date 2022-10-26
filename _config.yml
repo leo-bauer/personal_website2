@@ -18,7 +18,5 @@ sass:
 nav:
  - name: "About"
    link: "index"
- - name: "CV"
-   link: "cv_bauer.pdf"
  - name: "Contact"
    link: "contact"
