@@ -16,8 +16,14 @@ Feel free to reach out to me with any question you might have!
 
 ## Works in Progress
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
+1. “Discursive Shifts in German Right-Wing Media 1997-2019: A Computational Approach.” 2022. With Christian Czymara. Under review.
+2. “Mediation and Conflict Prevention.” 2022. With David E. Cunningham and Megan Lloyd. Working paper.
+3. “Rebel Actors and Legitimacy Building.” 2022. With Kathleen Gallagher Cunningham and Margaret McWeeney. Working paper.
 
 ## Projects
 
+*
+
 ## Talks & Workshops
+
+*
