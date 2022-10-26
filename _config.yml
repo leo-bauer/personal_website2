@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: ""
-footer_text: "Page design by Ankit Sultana"
+footer_text: "© 2022 Leo Bauer."
 
 sass:
     style: compressed
