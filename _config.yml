@@ -1,6 +1,6 @@
 title: Researcher
 url: "astonishing-speculoos-e62703.netlify.app"
-baseurl: ""
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
