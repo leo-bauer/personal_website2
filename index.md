@@ -22,7 +22,7 @@ Feel free to reach out to me with any question you might have!
 
 3. “Rebel Actors and Legitimacy Building.” 2022. With Kathleen Gallagher Cunningham and Margaret McWeeney. Working paper.
 
-## Projects
+## Current Projects
 
 * XXX
 
