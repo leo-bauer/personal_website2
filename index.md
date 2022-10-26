@@ -14,6 +14,8 @@ My enthusiasm for computational social science has also led to several collabora
 
 Feel free to reach out to me with any question you might have!
 
+You can find my CV [here](/cv_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
+
 ## Works in Progress
 
 1. “Discursive Shifts in German Right-Wing Media 1997-2019: A Computational Approach.” 2022. With Christian Czymara. Under review.
