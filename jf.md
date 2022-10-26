@@ -1,24 +1,11 @@
 ---
 layout: default
-is_contact: true
 ---
 
-## Contact Details
+## Scraping the Archive of German Far-right Weekly Junge Freiheit
 
-* [leobauer@umd.com](mailto:leobauer@umd.com)
+This project came to fruition in the fall of 2020 in collaboration with [Christian Czymara](https://czymara.com){:target="_blank"}{:rel="noopener noreferrer"}. The scraper lets you download articles by volume (all issues in one calendar year) from the archive of Germany’s biggest far-right weekly by circulation, Junge Freiheit.
 
-* [Twitter](https://twitter.com/leo__ba){:target="_blank"}{:rel="noopener noreferrer"}
+The archive covers the time period from 1997 to the present, with new issues being uploaded with a several-week lag. The scraped data have individual articles as observations. Variables recorded for each article are date, title, the URL and the text.
 
-* [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
-
-## Department Mailing Address
-
-> University of Maryland 
-> 
-> 3140 Tydings Hall
->
-> 7343 Preinkert Drive
->
-> College Park, MD 20742
->
-> United States
+A more technical description of the project as well as the code for the scraper can be found [here](https://github.com/leo-bauer/junge-freiheit-scraper){:target="_blank"}{:rel="noopener noreferrer"}. Instructions and code on how to integrate the browser extension are written for Windows. Let me know if you need code to run the scraper using a Linux OS.
