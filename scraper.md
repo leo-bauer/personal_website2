@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Scraping the Web
+## An Introduction to Webscraping
 
 Coming soon!
