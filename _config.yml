@@ -1,6 +1,6 @@
 title: Leo Bauer
 url: "astonishing-speculoos-e62703.netlify.app"
-baseurl: ""
+baseurl: "/index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
