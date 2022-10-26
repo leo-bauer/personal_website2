@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Scraping the Web with Python
+## Scraping the Web
 
 Coming soon!
