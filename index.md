@@ -28,5 +28,5 @@ Feel free to reach out to me with any question you might have!
 
 ## Talks & Workshops
 
-* [A Very Short Introduction to LaTeX](/latex.md)
+* [A Very Short Introduction to LaTeX](/latex)
   A concise workshop on creating scientific documents with LaTeX.
