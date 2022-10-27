@@ -5,7 +5,7 @@ is_contact: true
 
 ## Contact Details
 
-* [leobauer@umd.com](mailto:leobauer@umd.com)
+* [leobauer@umd.edu](mailto:leobauer@umd.edu)
 
 * [Twitter](https://twitter.com/leo__ba){:target="_blank"}{:rel="noopener noreferrer"}
 
