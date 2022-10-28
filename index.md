@@ -14,7 +14,7 @@ My enthusiasm for computational social science has also led to several collabora
 
 Feel free to reach out to me with any question you might have!
 
-You can find my CV [here](/cv_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
+You can find my CV [here](/pdfs/cv_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Works in Progress
 
