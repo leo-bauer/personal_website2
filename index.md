@@ -18,7 +18,7 @@ You can find my CV [here](/cv_bauer.pdf){:target="_blank"}{:rel="noopener norefe
 
 ## Works in Progress
 
-1. “Discursive Shifts in German Right-Wing Media 1997-2019: A Computational Approach.” 2022. With Christian Czymara. Under review. [POSTER](/pdfs/poster_jf_czymara_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}
+1. “Discursive Shifts in German Right-Wing Media 1997-2019: A Computational Approach.” 2022. With Christian Czymara. Under review. [Conference Poster](/pdfs/poster_jf_czymara_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 2. “Mediation and Conflict Prevention.” 2022. With David E. Cunningham and Megan Lloyd. Working paper.
 
