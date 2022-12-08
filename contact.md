@@ -7,8 +7,6 @@ is_contact: true
 
 * Email: [leobauer[at]umd[dot]edu](mailto:leobauer@umd.edu)
 
-* [Twitter](https://twitter.com/leo__ba){:target="_blank"}{:rel="noopener noreferrer"}
-
 * [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Departmental Mailing Address
