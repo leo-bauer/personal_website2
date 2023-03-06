@@ -5,7 +5,7 @@ is_contact: true
 
 ## Contact Details
 
-* Email: [leobauer[at]umd[dot]edu](mailto:leobauer@umd.edu)
+* Email: [leobauer [at] umd [dot] edu](mailto:leobauer@umd.edu)
 
 * [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
 
