@@ -20,7 +20,7 @@ You can find my CV [here](/pdfs/cv_bauer.pdf){:target="_blank"}{:rel="noopener n
 
 1. “Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach.” 2023. With Christian Czymara. Revise and resubmit.
 
-2. “Mediation and Conflict Prevention.” 2022. With David E. Cunningham and Megan Lloyd. Working paper.
+2. “Can Mediation Prevent Civil War in Self-Determination Disputes?” 2023. With David E. Cunningham, Megan Lloyd and Sloan Lansdale. Working paper.
 
 3. “Rebel Actors and Legitimacy Building.” 2022. With Kathleen Gallagher Cunningham and Margaret McWeeney. Under review.
 
