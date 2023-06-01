@@ -18,7 +18,7 @@ You can find my CV [here](/pdfs/cv_bauer.pdf){:target="_blank"}{:rel="noopener n
 
 ## Peer-Reviewed Publications
 
-1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2023. With Christian Czymara. Accepted for publication at *German Politics*.
+1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2023. With Christian Czymara. Forthcoming in *German Politics*.
 
 ## Works in Progress
 
