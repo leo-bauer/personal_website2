@@ -18,15 +18,15 @@ You can find my CV [here](/pdfs/cv_bauer.pdf){:target="_blank"}{:rel="noopener n
 
 ## Peer-Reviewed Publications
 
-1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2023. With Christian Czymara. Forthcoming in *German Politics*.
+1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." With Christian Czymara. Forthcoming. *German Politics*.
 
 ## Works in Progress
 
-1. "Can Mediation Prevent Civil War in Self-Determination Disputes?" 2023. With David E. Cunningham, Megan Lloyd and Sloan Lansdale. Working paper.
+1. "Can Mediation Prevent Civil War in Self-Determination Disputes?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2023. Working paper.
 
-2. "Rebel Group Origins and Civilian Victimization." 2023. With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham. Working paper.
+2. "Rebel Group Origins and Civilian Victimization." With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham. 2023. Working paper.
 
-3. "Rebel Actors and Legitimacy Building." 2022. With Kathleen Gallagher Cunningham and Margaret McWeeney. Under review.
+3. "Rebel Actors and Legitimacy Building." With Kathleen Gallagher Cunningham and Margaret McWeeney. 2023. Revise and resubmit.
 
 ## Recent Projects
 
