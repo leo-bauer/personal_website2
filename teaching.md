@@ -3,20 +3,9 @@ layout: default
 is_contact: true
 ---
 
-## Contact Details
+## Talks & Workshops
 
-* Email: [leobauer [at] umd [dot] edu](mailto:leobauer@umd.edu)
+* [A Very Short Introduction to LaTeX](/latex): A concise workshop on creating scientific documents with LaTeX.
 
-* [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
-
-## Departmental Mailing Address
-
-> University of Maryland 
-> 
-> 3140 Tydings Hall
->
-> 7343 Preinkert Drive
->
-> College Park, MD 20742
->
-> United States
+* [An Introduction to Webscraping](/scraper): A short workshop on how to collect and store data from webpages using Python. 
+* 
