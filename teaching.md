@@ -11,9 +11,9 @@ I have also given two methods workshops as part of my department's graduate meth
 
 ## Classes
 
-* **University of Maryland, College Park, United States**: Teaching assistant for GVPT729B Applied Social Data Science (graduate level)
+* **University of Maryland, College Park, United States**: Teaching assistant for GVPT729B Applied Social Data Science (graduate level), Fall 2023
 
-* **Goethe University Frankfurt, Germany**: Teaching assistant for Longitudinal Data Analysis and Causality (graduate level)
+* **Goethe University Frankfurt, Germany**: Teaching assistant for Longitudinal Data Analysis and Causality (graduate level), Winter Term 2020-2021
 
 ## Workshops
 
