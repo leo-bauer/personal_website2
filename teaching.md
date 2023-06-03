@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## Talks & Workshops
+## Workshops
 
 * [A Very Short Introduction to LaTeX](/latex): A concise workshop on creating scientific documents with LaTeX.
 
