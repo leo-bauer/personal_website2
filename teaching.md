@@ -5,7 +5,15 @@ is_contact: true
 
 ## Teaching
 
-I have given two methods workshops as part of the University of Maryland Department of Government and Politics graduate methods workshop series. You can find the workshop materials below. I am also going to be the graduate methods workshop coordinator for the 2023-2024 academic year, organizing roughly a dozen workshops by and for graduate students on a broad range of quantitative methods. 
+I am the teaching assistant for my department's graduate-level applied social data science class in Fall 2023. In addition, I have given guest lectures in the 2022-2023 academic year on environmental politics in Germany.
+
+I have also given two methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I am going to be the graduate methods workshop coordinator for the 2023-2024 academic year, organizing roughly a dozen workshops by and for graduate students on a broad range of quantitative methods. 
+
+## Classes
+
+* University of Maryland, College Park, United States: Teaching assistant for GVPT729B Applied Social Data Science (graduate level)
+
+* Goethe University Frankfurt, Germany: Teaching assistant for Longitudinal Data Analysis and Causality (graduate level)
 
 ## Workshops
 
