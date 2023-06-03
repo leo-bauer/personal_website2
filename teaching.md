@@ -9,13 +9,13 @@ I am the teaching assistant for my department's graduate-level applied social da
 
 I have also given several methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I am the graduate methods workshop coordinator for the 2023-2024 academic year, organizing roughly a dozen workshops by and for graduate students on a broad range of quantitative methods. 
 
-## Classes
+### Classes
 
 * **University of Maryland, College Park, United States**: Teaching assistant for GVPT729B Applied Social Data Science (graduate level), fall 2023
 
 * **Goethe University Frankfurt, Germany**: Teaching assistant for Longitudinal Data Analysis and Causality (graduate level), winter term 2020-2021
 
-## Workshops
+### Workshops
 
 * [A Very Short Introduction to LaTeX](/latex): A concise workshop on creating scientific documents with LaTeX.
 
