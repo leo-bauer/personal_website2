@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## About Me
-
 <img class="profile-picture" src="profile.jpg">
 
 Hi there! Thank you for stopping by.
