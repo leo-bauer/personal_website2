@@ -15,32 +15,3 @@ My enthusiasm for computational social science has also led to several collabora
 Feel free to reach out to me with any question you might have!
 
 You can find my CV [here](/pdfs/cv_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
-
-## Peer-Reviewed Publications
-
-1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." Forthcoming, *German Politics*. With Christian Czymara.
-
-## Works in Progress
-
-1. "Can Mediation Prevent Civil War in Self-Determination Disputes?" 2023, Working Paper. With David E. Cunningham, Megan Lloyd and Sloan Lansdale.
-
-2. "Rebel Actors and Legitimacy Building." 2023, Revise and Resubmit. With Kathleen Gallagher Cunningham and Margaret McWeeney. 
-
-3. "Rebel Group Origins and Civilian Victimization." 2023, Working Paper. With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham.
-
-
-
-
-## Recent Projects
-
-* [Predicting Fact-Checking Results Using BERT Language Models](https://ilcss.umd.edu/political-communication/){:target="_blank"}{:rel="noopener noreferrer"}: A project to better understand disinformation and the impact of counter-strategies.
-
-* [Mediation in Self-Determination Disputes Dataset](/mediation): A data project on mediation events in self-determination disputes.
-
-* [Scraping the Archive of German Far-Right Weekly Junge Freiheit](/jf): A webscraper in Python to collect text data from Germany’s biggest weekly far-right newspaper.
-
-## Talks & Workshops
-
-* [A Very Short Introduction to LaTeX](/latex): A concise workshop on creating scientific documents with LaTeX.
-
-* [An Introduction to Webscraping](/scraper): A short workshop on how to collect and store data from webpages using Python. 
