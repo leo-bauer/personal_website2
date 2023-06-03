@@ -23,6 +23,8 @@ In addition, I have recently worked on several research and data collection proj
 
 ## Recent Projects
 
+* [Scraping Data on Peaceful Revolution Protest in East Germany](/protest): A webscraper in Python to collect protest data on the 1989-1990 Peaceful Revolution in East Germany.
+
 * [Predicting Fact-Checking Results Using BERT Language Models](https://ilcss.umd.edu/political-communication/){:target="_blank"}{:rel="noopener noreferrer"}: A project to better understand disinformation and the impact of counter-strategies.
 
 * [Mediation in Self-Determination Disputes Dataset](/mediation): A data project on mediation events in self-determination disputes.
