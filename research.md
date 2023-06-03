@@ -3,20 +3,22 @@ layout: default
 is_contact: true
 ---
 
-## Contact Details
+## Peer-Reviewed Publications
 
-* Email: [leobauer [at] umd [dot] edu](mailto:leobauer@umd.edu)
+1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." Forthcoming, *German Politics*. With Christian Czymara.
 
-* [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
+## Works in Progress
 
-## Departmental Mailing Address
+1. "Can Mediation Prevent Civil War in Self-Determination Disputes?" 2023, Working Paper. With David E. Cunningham, Megan Lloyd and Sloan Lansdale.
 
-> University of Maryland 
-> 
-> 3140 Tydings Hall
->
-> 7343 Preinkert Drive
->
-> College Park, MD 20742
->
-> United States
+2. "Rebel Actors and Legitimacy Building." 2023, Revise and Resubmit. With Kathleen Gallagher Cunningham and Margaret McWeeney. 
+
+3. "Rebel Group Origins and Civilian Victimization." 2023, Working Paper. With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham.
+
+## Recent Projects
+
+* [Predicting Fact-Checking Results Using BERT Language Models](https://ilcss.umd.edu/political-communication/){:target="_blank"}{:rel="noopener noreferrer"}: A project to better understand disinformation and the impact of counter-strategies.
+
+* [Mediation in Self-Determination Disputes Dataset](/mediation): A data project on mediation events in self-determination disputes.
+
+* [Scraping the Archive of German Far-Right Weekly Junge Freiheit](/jf): A webscraper in Python to collect text data from Germany’s biggest weekly far-right newspaper.
