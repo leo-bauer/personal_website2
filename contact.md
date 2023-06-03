@@ -9,8 +9,6 @@ is_contact: true
 
 * [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
 
-## Departmental Mailing Address
-
 > University of Maryland 
 > 
 > 3140 Tydings Hall
