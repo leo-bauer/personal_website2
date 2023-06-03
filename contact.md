@@ -7,7 +7,7 @@ is_contact: true
 
 * Email: [leobauer [at] umd [dot] edu](mailto:leobauer@umd.edu)
 
-* [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
+* GitHub: [leo-bauer](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
 
 > University of Maryland 
 > 
