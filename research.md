@@ -3,6 +3,10 @@ layout: default
 is_contact: true
 ---
 
+## Research
+
+I currently have one peer-reviewed publication forthcoming and several works in progress. In addition, I have recently worked on several research and data collection projects on which there is information below. Some of them are linked to GitHub repositories with tutorials and code, so make sure to explore!
+
 ## Peer-Reviewed Publications
 
 1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." Forthcoming, *German Politics*. With Christian Czymara.
