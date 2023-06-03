@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## Contact Details
+## Contact
 
 * Email: [leobauer [at] umd [dot] edu](mailto:leobauer@umd.edu)
 
