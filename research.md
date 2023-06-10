@@ -21,6 +21,8 @@ In addition, I have recently worked on several research and data collection proj
 
 3. "Rebel Group Origins and Civilian Victimization." 2023, Working Paper. With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham.
 
+4. "Tracing Changes in Anti-Regime Protest Framing: Evidence from German Democratic Republic State Media." 2023, Working Paper. 
+
 ### Recent Projects
 
 * [Scraping Data on Peaceful Revolution Protest in East Germany](/protest): A webscraper in Python to collect protest data on the 1989-1990 Peaceful Revolution in the German Democratic Republic.
