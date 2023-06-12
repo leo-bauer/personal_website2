@@ -15,7 +15,7 @@ In addition, I have recently worked on several research and data collection proj
 
 ### Works in Progress
 
-1. "Tracing Changes in Anti-Regime Protest Framing: Evidence from German Democratic Republic State Media." 2023, Working Paper. 
+1. "Tracing Changes in Pro-Democracy Protest Framing: Evidence from German Democratic Republic State Media." 2023, Working Paper. 
 
 2. "Rebel Group Origins and Civilian Victimization." 2023, Working Paper. With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham.
 
