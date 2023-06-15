@@ -14,6 +14,6 @@ My enthusiasm for computational social science has also led to several collabora
 
 Before coming to the United States, I completed an MA in International Studies/Peace and Conflict Research at Goethe University Frankfurt and a BA in American Studies at Leipzig University. During my time as an undergraduate and graduate student in Germany I also studied as an exchange student in the United States and Turkey on German Academic Exchange Service and European Union scholarships. In addition, I have worked in research roles at Peace Research Institute Frankfurt and the Max Planck Institute for Social Anthropology.
 
-Feel free to reach out to me with any question you might have!
+Feel free to reach out to me with any question you might have.
 
 You can find my CV [here](/pdfs/cv_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
