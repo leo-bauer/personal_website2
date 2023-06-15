@@ -11,8 +11,10 @@ is_contact: true
 
 * Mailing address:
 
-> University of Maryland,
-> 3140 Tydings Hall,
-> 7343 Preinkert Drive,
-> College Park, MD 20742,
+> University of Maryland
+> 
+> 3140 Tydings Hall
+> 7343 Preinkert Drive
+> 
+> College Park, MD 20742
 > United States
