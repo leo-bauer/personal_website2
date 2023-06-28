@@ -5,13 +5,15 @@ is_contact: true
 
 ## Research
 
-I currently have one peer-reviewed publication forthcoming and several works in progress. 
+I currently have two peer-reviewed publication forthcoming with co-authors and several works in progress. 
 
 In addition, I have recently worked on several research and data collection projects on which there is information below. Some of them are linked to GitHub repositories with tutorials and code, so make sure to explore!
 
 ### Peer-Reviewed Publications
 
-1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." Forthcoming, *German Politics*. With Christian Czymara.
+1. "Rebel Actors and Legitimacy Building." Forthcoming, *International Politics*. With Kathleen Gallagher Cunningham and Margaret McWeeney. 
+
+2. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." Forthcoming, *German Politics*. With Christian Czymara.
 
 ### Works in Progress
 
@@ -19,9 +21,7 @@ In addition, I have recently worked on several research and data collection proj
 
 2. "Rebel Group Origins and Civilian Victimization." 2023, Working Paper. With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham.
 
-3. "Rebel Actors and Legitimacy Building." 2022, Revise and Resubmit. With Kathleen Gallagher Cunningham and Margaret McWeeney. 
-
-4. "Can Mediation Prevent Civil War in Self-Determination Disputes?" 2022, Working Paper. With David E. Cunningham, Megan Lloyd and Sloan Lansdale.
+3. "Can Mediation Prevent Civil War in Self-Determination Disputes?" 2022, Working Paper. With David E. Cunningham, Megan Lloyd and Sloan Lansdale.
 
 ### Recent Projects
 
