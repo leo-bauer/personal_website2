@@ -11,7 +11,7 @@ In addition, I have recently worked on several research and data collection proj
 
 ### Peer-Reviewed Publications
 
-1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2023. *German Politics*: Online First. With Christian Czymara. [DOI:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}. [[PDF]](https://leo-bauer.com/pdfs/discursive_shifts2023.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
+1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2023. *German Politics*: Online First. With Christian Czymara. [DOI:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}. [[PDF]](https://leo-bauer.com/pdfs/discursive_shifts2023.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 
 2. "Rebel Actors and Legitimacy Building." Forthcoming. *International Politics*. With Kathleen Gallagher Cunningham and Margaret McWeeney. 
 
