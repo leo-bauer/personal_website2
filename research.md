@@ -11,9 +11,9 @@ In addition, I have recently worked on several research and data collection proj
 
 ### Peer-Reviewed Publications
 
-1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." With Christian Czymara. 2023. Online First, *German Politics*. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
+1. "Rebel Actors and Legitimacy Building." With Margaret McWeeney and Kathleen Gallagher Cunningham. 2023. Online First, *International Politics*. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
 
-2. "Rebel Actors and Legitimacy Building." With Kathleen Gallagher Cunningham and Margaret McWeeney. Forthcoming, *International Politics*. 
+2. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." With Christian Czymara. 2023. Online First, *German Politics*. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ### Works in Progress
 
