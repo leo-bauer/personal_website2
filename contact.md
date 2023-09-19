@@ -9,6 +9,8 @@ is_contact: true
 
 * GitHub: [leo-bauer](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
 
+* Google Scholar: [Leo Bauer](https://scholar.google.com/citations?user=hsdwkP0AAAAJ&hl=en&oi=sra){:target="_blank"}{:rel="noopener noreferrer"}
+
 * Mailing address:
 
 > 3140 Tydings Hall
