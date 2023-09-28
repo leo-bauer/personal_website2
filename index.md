@@ -17,5 +17,3 @@ Before coming to the United States, I completed an MA in International Studies/P
 Feel free to reach out to me with any question you might have.
 
 You can find my CV [here](/pdfs/cv_bauer.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
-
-Test
