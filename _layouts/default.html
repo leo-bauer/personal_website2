@@ -51,8 +51,9 @@
         <meta name="twitter:image" content="{{ site.twitter_image }}">
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
-    {% endif %}
+    {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
+    {% endif %}
 </head>
 <body>
     <div class="wrapper">
