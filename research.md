@@ -17,11 +17,13 @@ In addition, I have recently worked on several research and data collection proj
 
 ### Works in Progress
 
-1. "Tracing Changes in Pro-Democracy Protest Framing: Evidence from German Democratic Republic State Media." 2023. Working Paper. 
+1. "Exploring the Nexus between Natural Disasters, Civil Conflict and Displacement." With Juan D. Gelvez. 2024. Working Paper.
 
-2. "Rebel Group Origins and Civilian Victimization." With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham. 2023. Working Paper. 
+2. "Tracing Changes in Pro-Democracy Protest Framing: Evidence from German Democratic Republic State Media." 2023. Working Paper. 
 
-3. "Can Mediation Prevent Civil War in Self-Determination Disputes?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2022. Working Paper.
+3. "Rebel Group Origins and Civilian Victimization." With Jessica Maves Braithwaite and Kathleen Gallagher Cunningham. 2023. Working Paper. 
+
+4. "Can Mediation Prevent Civil War in Self-Determination Disputes?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2022. Working Paper.
 
 ### Recent Projects
 
