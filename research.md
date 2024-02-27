@@ -17,7 +17,7 @@ In addition, I have recently worked on several research and data collection proj
 
 ### Works in Progress
 
-1. "Rebel Group Origins and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Under review. 
+1. "Rebel Group Origins and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Under Review. 
 
 2. "Exploring the Nexus between Natural Disasters, Civil Conflict and Displacement." With Juan D. Gelvez. 2024. Working Paper.
 
