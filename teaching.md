@@ -5,7 +5,7 @@ is_contact: true
 
 ## Teaching
 
-In Summer 2024, I taught our department's introduction to international relations class for undergraduate students. I was the teaching assistant for my department's graduate-level applied social data science class in Fall 2023 In addition, I gave guest lectures on environmental politics in Germany for two undergraduate classes in the 2022-2023 academic year.
+In Summer 2024, I taught our department's introduction to international relations class for undergraduate students. I was the teaching assistant for my department's graduate-level applied social data science class in Fall 2023. In addition, I gave guest lectures on environmental politics in Germany for two undergraduate classes in the 2022-2023 academic year.
 
 I also gave several methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I was the graduate methods workshop coordinator for the 2023-2024 academic year, organizing ten workshops by and for graduate students on a broad range of quantitative and qualitative methods. 
 
