@@ -17,13 +17,15 @@ In addition, I recently worked on several research and data collection projects 
 
 ### Works in Progress
 
-1. "Rebel Group Origins and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Under Review. 
+1. "Where Do Mediators Try to Prevent Civil War?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2024. Under Review.
 
-2. "Exploring the Nexus between Natural Disasters, Civil Conflict and Displacement." With Juan D. Gelvez. 2024. Working Paper.
+2. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Working Paper.
 
-3. "Tracing Changes in Pro-Democracy Protest Framing: Evidence from German Democratic Republic State Media." 2023. Working Paper. 
+3. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan D. Gelvez. 2024. Under Review.
 
-4. "Can Mediation Prevent Civil War in Self-Determination Disputes?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2022. Working Paper.
+4. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working Paper.
+
+5. "Tracing Changes in Pro-Democracy Protest Framing: Evidence from German Democratic Republic State Media." 2023. Working Paper.
 
 ### Recent Projects
 
