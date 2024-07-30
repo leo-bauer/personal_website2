@@ -5,11 +5,13 @@ is_contact: true
 
 ## Teaching
 
-I have been the teaching assistant for my department's graduate-level applied social data science class in Fall 2023. In addition, I have given guest lectures on environmental politics in Germany for two undergraduate classes in the 2022-2023 academic year.
+In Summer 2024, I taught our department's introduction to international relations class for undergraduate students. I have also been the teaching assistant for my department's graduate-level applied social data science class in Fall 2023 and have given guest lectures on environmental politics in Germany for two undergraduate classes in the 2022-2023 academic year.
 
-I have also given several methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I am the graduate methods workshop coordinator for the 2023-2024 academic year, organizing ten workshops by and for graduate students on a broad range of quantitative and qualitative methods. 
+I have also given several methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I have been the graduate methods workshop coordinator for the 2023-2024 academic year, organizing ten workshops by and for graduate students on a broad range of quantitative and qualitative methods. 
 
 ### Classes
+
+* **University of Maryland, College Park, United States**: Instructor for GVPT200 Introduction to International Relations (Undergraduate Level), Summer 2024. 
 
 * **University of Maryland, College Park, United States**: Teaching Assistant for GVPT729B Applied Social Data Science (Graduate Level), Fall 2023. 
 
