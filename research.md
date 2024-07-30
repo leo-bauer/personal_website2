@@ -7,7 +7,7 @@ is_contact: true
 
 I currently have two peer-reviewed publications and several works in progress. 
 
-In addition, I have recently worked on several research and data collection projects on which there is information below. Some of them are linked to GitHub repositories with tutorials and code, so make sure to explore!
+In addition, I recently worked on several research and data collection projects on which there is information below. Some of them are linked to GitHub repositories with tutorials and code, so make sure to explore and let me know if you have any questions!
 
 ### Peer-Reviewed Publications
 
