@@ -12,7 +12,7 @@ I’m a doctoral student in the Department of Government and Politics at the [Un
 
 My enthusiasm for computational social science has also led to several collaborative projects that lie apart from my research agenda on intrastate conflict. Over the past years I have built custom web scrapers to collect data online, employed topic modeling to explore large corpora of text, utilized sentiment analysis to trace changes in media framing and trained cutting-edge language models for classification tasks. I have also gathered experience in image analysis for political science and have used machine learning models for classification and regression tasks. At UMD I am a member of the [Interdisciplinary Laboratory of Computational Social Science](https://ilcss.umd.edu/){:target="_blank"}{:rel="noopener noreferrer"}. 
 
-Currently, I serve as the managing editor at the Journal of Conflict Resolution. You can submit at JCR [here](https://journals.sagepub.com/home/jcr){:target="_blank"}{:rel="noopener noreferrer"}.
+Currently, I serve as the managing editor at the *Journal of Conflict Resolution*. You can submit at JCR [here](https://journals.sagepub.com/home/jcr){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Before coming to the United States, I completed an MA in International Studies/Peace and Conflict Research at Goethe University Frankfurt and a BA in American Studies at Leipzig University. During my time as an undergraduate and graduate student in Germany I also studied as an exchange student in the United States and Turkey on German Academic Exchange Service and European Union scholarships. In addition, I have worked in research roles at Peace Research Institute Frankfurt and the Max Planck Institute for Social Anthropology.
 
