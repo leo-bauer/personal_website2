@@ -29,7 +29,7 @@ In addition, I recently worked on several research and data collection projects 
 
 ### Recent Projects
 
-* [Converting SRDP Faction IDs into UCDP Actor IDs](/conversion): A table that allows for the conversion of SRDP faction IDs into UCDP actor IDs.
+* [Converting SRDP Faction IDs to UCDP Actor IDs](/conversion): A table that allows for the conversion of SRDP faction IDs into UCDP actor IDs.
 
 * [Scraping Data on Peaceful Revolution Protest in East Germany](/protest): A webscraper in Python to collect protest data on the 1989-1990 Peaceful Revolution in the German Democratic Republic.
 
