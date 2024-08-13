@@ -6,4 +6,4 @@ layout: default
 
 The conversion table provides a comprehensive list of SRDP factions that exist in the UCDP universe as well. Matches were obtained using a two-step approach: First, an automated string matching technique was employed to match SRDP factions with UCDP non-state actors and manually validated. SRDP factions not matched in this step were then manually searched in UCDP and matched. As SRDP factions are sometimes more disaggregated than UCDP actors, several SRDP factions may match with the same UCDP actor but not the other way around. 
 
-The conversion spreadsheet includes the primary name of the SRDP faction, its self-determination dispute ID, faction ID and the corresponding UCDP actor ID. It can be downloaded here. 
+The conversion spreadsheet includes the primary name of the SRDP faction, its self-determination dispute ID, faction ID and the corresponding UCDP actor ID. It can be downloaded [here](/files/srdp-ucdp_conversion.csv){:target="_blank"}{:rel="noopener noreferrer"}.
