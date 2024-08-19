@@ -17,7 +17,7 @@ In addition, I recently worked on several research and data collection projects 
 
 ### Works in Progress
 
-1. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working Paper.
+1. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Under Review.
 
 2. "Where Do Mediators Try to Prevent Civil War?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2024. Under Review.
 
