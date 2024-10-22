@@ -7,7 +7,7 @@ is_contact: true
 
 I currently have two peer-reviewed publications and several works in progress. 
 
-In addition, I recently worked on several research and data collection projects on which there is information below. Some of them are linked to GitHub repositories with tutorials and code, so make sure to explore and let me know if you have any questions!
+In addition, for several research and data collection projects I have led or participated in there is information below. Some of them are linked to GitHub repositories with tutorials and code, so make sure to explor. Let me know if you have any questions!
 
 ### Peer-Reviewed Publications
 
@@ -19,13 +19,11 @@ In addition, I recently worked on several research and data collection projects 
 
 1. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Under Review.
 
-2. "Where Do Mediators Try to Prevent Civil War?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2024. Under Review.
+2. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Working Paper.
 
-3. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Working Paper.
+3. "Where Do Mediators Try to Prevent Civil War?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2024. Working Paper.
 
-4. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan D. Gelvez. 2024. Under Review.
-
-5. "Tracing Changes in Pro-Democracy Protest Framing: Evidence from German Democratic Republic State Media." 2023. Working Paper.
+4. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2024. Working Paper.
 
 ### Recent Projects
 
