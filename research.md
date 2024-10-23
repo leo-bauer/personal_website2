@@ -33,6 +33,4 @@ In addition, for several research and data collection projects I have led or par
 
 * [Predicting Fact-Checking Results Using BERT Language Models](https://ilcss.umd.edu/political-communication/){:target="_blank"}{:rel="noopener noreferrer"}: A project to better understand disinformation and the impact of counter-strategies.
 
-* [Mediation in Self-Determination Disputes Dataset](/mediation): A data project on mediation events in self-determination disputes.
-
 * [Scraping the Archive of German Far-Right Weekly Junge Freiheit](/jf): A webscraper in Python to collect text data from Germany’s biggest weekly far-right newspaper.
