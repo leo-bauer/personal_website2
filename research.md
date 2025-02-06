@@ -17,9 +17,9 @@ In addition, for several research and data collection projects I have led or par
 
 ### Works in Progress
 
-1. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Under Review.
+1. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2024. Under Review.
 
-2. "Where Do Mediators Try to Prevent Civil War?" With David E. Cunningham, Megan Lloyd and Sloan Lansdale. 2024. Working Paper.
+2. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Under Review.
 
 3. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working Paper.
 
