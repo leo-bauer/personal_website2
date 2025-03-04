@@ -11,19 +11,25 @@ In addition, for several research and data collection projects I have led or par
 
 ### Peer-Reviewed Publications
 
-1. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." With Christian Czymara. 2025. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
+1. Czymara, Christian S, and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2025. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
 
-2. "Rebel Actors and Legitimacy Building." Margaret McWeeney and Kathleen Gallagher Cunningham. 2023. *International Politics*, Online First. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
+2. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2023. *International Politics*, online first: 1--22. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
+
+### Manuscripts under Review
+
+1. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." 2025. With Juand David Gelvez.
+
+2. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. 
+
+3. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024.
 
 ### Works in Progress
 
-1. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. Under Review.
+1. "Where to Talk with the Informant? Exploring the Logistics of Autocratic Repression." 2025. Early draft.
 
-2. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Under Review.
+2. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper.
 
-3. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working Paper.
-
-4. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2024. Working Paper.
+3. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working paper.
 
 ### Recent Projects
 
