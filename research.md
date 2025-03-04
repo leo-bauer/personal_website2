@@ -5,13 +5,13 @@ is_contact: true
 
 ## Research
 
-I currently have two peer-reviewed publications and multiple works in progress. 
+I currently have two peer-reviewed publications and multiple works under review and in progress. 
 
 In addition, for several research and data collection projects I have led or participated in there is information below. Some of them are linked to GitHub repositories with tutorials and code.
 
 ### Peer-Reviewed Publications
 
-1. Czymara, Christian S, and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2025. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
+1. Czymara, Christian S., and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997-2019: A Computational Approach." 2025. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
 
 2. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2023. *International Politics*, online first: 1--22. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
 
