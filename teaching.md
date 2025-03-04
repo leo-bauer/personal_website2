@@ -11,11 +11,11 @@ I also gave several methods workshops as part of my department's graduate method
 
 ### Classes
 
-1. **GVPT200 Introduction to International Relations**, instructor (undergraduate level), summer 2024, University of Maryland, College Park, United States
+1. GVPT200 Introduction to International Relations. Instructor (undergraduate level). Summer 2024, University of Maryland, College Park, United States
 
-2. **GVPT729B Applied Social Data Science**, teaching assistant (graduate level), fall 2023, University of Maryland, College Park, United States
+2. GVPT729B Applied Social Data Science, Teaching assistant (graduate level). Fall 2023, University of Maryland, College Park, United States
 
-3. **Longitudinal Data Analysis and Causality**, teaching assistant (graduate level), winter term 2020-2021, Goethe University Frankfurt, Germany
+3. Longitudinal Data Analysis and Causality. Teaching assistant (graduate level). Winter term 2020-2021, Goethe University Frankfurt, Germany
 
 ### Workshops
 
