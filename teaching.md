@@ -5,9 +5,9 @@ is_contact: true
 
 ## Teaching
 
-In summer 2024, I taught our department's introduction to International Relations class for undergraduate students. I was the teaching assistant for my department's graduate-level applied social data science class in fall 2023. In addition, I gave guest lectures on environmental politics in Germany for two undergraduate classes in the 2022-2023 academic year.
+In summer 2024, I taught our department's introduction to International Relations class for undergraduate students. I was the teaching assistant for my department's graduate-level applied social data science class in fall 2023. In addition, I gave guest lectures on environmental politics in Germany for two undergraduate classes in the 2022--2023 academic year.
 
-I also gave several methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I served as our department's graduate methods workshop coordinator for the 2023-2024 academic year, organizing ten workshops by and for graduate students on a broad range of quantitative and qualitative methods as well as an outside speaker event. 
+I also gave several methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I served as our department's graduate methods workshop coordinator for the 2023--2024 academic year, organizing ten workshops by and for graduate students on a broad range of quantitative and qualitative methods as well as an outside speaker event. 
 
 ### Classes
 
@@ -15,7 +15,7 @@ I also gave several methods workshops as part of my department's graduate method
 
 2. GVPT729B Applied Social Data Science. Teaching assistant (graduate level). Fall 2023. University of Maryland, College Park, United States.
 
-3. Longitudinal Data Analysis and Causality. Teaching assistant (graduate level). Winter term 2020-2021. Goethe University Frankfurt, Germany.
+3. Longitudinal Data Analysis and Causality. Teaching assistant (graduate level). Winter term 2020--2021. Goethe University Frankfurt, Germany.
 
 ### Workshops
 
