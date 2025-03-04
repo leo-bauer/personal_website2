@@ -17,7 +17,7 @@ In addition, for several research and data collection projects I have led or par
 
 ### Manuscripts under Review
 
-1. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." 2025. With Juand David Gelvez.
+1. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." 2025. With Juan David Gelvez.
 
 2. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. 
 
