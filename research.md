@@ -27,9 +27,7 @@ In addition, for several research and data collection projects I have led or par
 
 1. "Where to Talk with the Informant? Exploring the Logistics of Autocratic Repression." 2025. Early draft.
 
-2. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper.
-
-3. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working paper.
+2. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working paper.
 
 ### Recent Projects
 
