@@ -25,7 +25,7 @@ In addition, for several research and data collection projects I have led or par
 
 ### Works in Progress
 
-1. "Where to Talk with the Informant? Exploring the Logistics of Autocratic Repression." 2025. Early draft.
+1. "Explaining Informant Recruitment Tactics by Coercive Insitutions in Autocracies." 2025. Early draft.
 
 2. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working paper.
 
