@@ -25,7 +25,7 @@ In addition, for several research and data collection projects I have led or par
 
 ### Works in Progress
 
-1. "Explaining Informant Recruitment Tactics by Coercive Insitutions in Autocracies." 2025. Early draft.
+1. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
 
 2. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper. 
 
