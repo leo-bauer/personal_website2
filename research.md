@@ -17,7 +17,7 @@ In addition, for several research and data collection projects I have led or par
 
 ### Manuscripts under Review
 
-1. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Revise and resubmit at *Journal of Peace Research*.
+1. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2025. Revise and resubmit at *Journal of Peace Research*.
 
 2. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan David Gelvez. 2025.
 
