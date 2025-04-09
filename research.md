@@ -5,7 +5,7 @@ is_contact: true
 
 ## Research
 
-I currently have two peer-reviewed publications and multiple works under review and in progress. 
+I currently have two peer-reviewed publications and multiple works in progress. 
 
 In addition, for several research and data collection projects I have led or participated in there is information below. Some of them are linked to GitHub repositories with tutorials and code.
 
@@ -17,11 +17,11 @@ In addition, for several research and data collection projects I have led or par
 
 ### Manuscripts under Review
 
-1. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan David Gelvez. 2025.
+1. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024. Revise and resubmit at *Journal of Peace Research*.
 
-2. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. 
+2. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan David Gelvez. 2025.
 
-3. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2024.
+3. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. 
 
 ### Works in Progress
 
