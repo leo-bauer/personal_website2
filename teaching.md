@@ -19,4 +19,4 @@ I also gave several methods workshops as part of my department's graduate method
 
 ### Workshops
 
-* [A Very Short Introduction to LaTeX](https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX): A concise workshop on creating scientific documents with LaTeX.
+* [A Very Short Introduction to LaTeX](https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX){:target="_blank"}{:rel="noopener noreferrer"}: A concise workshop on creating scientific documents with LaTeX.
