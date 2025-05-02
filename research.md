@@ -35,6 +35,6 @@ In addition, for several research and data collection projects I have led or par
 
 * [Converting SRDP Faction IDs to UCDP Actor IDs](/conversion): A table that allows for the conversion of SRDP faction IDs into UCDP actor IDs.
 
-* [Scraping Data on Peaceful Revolution Protest in East Germany](https://github.com/leo-bauer/gdr-protest-scraper): A webscraper in Python to collect protest data on the 1989--1990 Peaceful Revolution in the German Democratic Republic.
+* [Scraping Data on Peaceful Revolution Protest in East Germany](https://github.com/leo-bauer/gdr-protest-scraper){:target="_blank"}{:rel="noopener noreferrer"}: A webscraper in Python to collect protest data on the 1989--1990 Peaceful Revolution in the German Democratic Republic.
 
-* [Scraping the Archive of German Far-Right Weekly Junge Freiheit](https://github.com/leo-bauer/junge-freiheit-scraper): A webscraper in Python to collect text data from Germany’s biggest weekly far-right newspaper.
+* [Scraping the Archive of German Far-Right Weekly Junge Freiheit](https://github.com/leo-bauer/junge-freiheit-scraper){:target="_blank"}{:rel="noopener noreferrer"}: A webscraper in Python to collect text data from Germany’s biggest weekly far-right newspaper.
