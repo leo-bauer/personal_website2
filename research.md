@@ -17,11 +17,11 @@ In addition, for several research and data collection projects I have led or par
 
 ### Manuscripts under Review
 
-1. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. Revise and resubmit at *Journal of Peace Research*.
+1. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan David Gelvez. 2025. Revise and resubmit at *Social Science Quarterly*.
 
-2. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2025. Revise and resubmit at *Journal of Peace Research*.
+2. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. Revise and resubmit at *Journal of Peace Research*.
 
-3. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan David Gelvez. 2025. Under review.
+3. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2025. Revise and resubmit at *Journal of Peace Research*.
 
 ### Works in Progress
 
