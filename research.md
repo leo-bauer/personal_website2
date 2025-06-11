@@ -5,23 +5,23 @@ is_contact: true
 
 ## Research
 
-I currently have two peer-reviewed publications and multiple works in progress. 
+I currently have three peer-reviewed publications and multiple works in progress. 
 
 In addition, for several research and data collection projects I have led or participated in there is information below. Some of them are linked to GitHub repositories with tutorials and code.
 
 ### Peer-Reviewed Publications
 
-1. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2025. *International Politics*, 62: 269--290. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
+1. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. Forthcoming in *Social Science Quarterly*.
 
-2. Czymara, Christian S., and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997--2019: A Computational Approach." 2025. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
+2. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2025. *International Politics*, 62: 269--290. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
+
+3. Czymara, Christian S., and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997--2019: A Computational Approach." 2025. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ### Manuscripts under Review
 
-1. "The Spatial Interplay of Climate Disasters, Armed Conflict, and Forced Displacement: Evidence from Colombia." With Juan David Gelvez. 2025. Revise and resubmit at *Social Science Quarterly*.
+1. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. Revise and resubmit at *Journal of Peace Research*.
 
-2. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. Revise and resubmit at *Journal of Peace Research*.
-
-3. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2025. Revise and resubmit at *Journal of Peace Research*.
+2. "The Nonviolent Legacies of Rebel Group Origins." With Kathleen Gallagher Cunningham. 2025. Revise and resubmit at *Journal of Peace Research*.
 
 ### Works in Progress
 
