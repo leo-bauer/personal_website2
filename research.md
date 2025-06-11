@@ -29,8 +29,6 @@ In addition, for several research and data collection projects I have led or par
 
 2. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper. 
 
-3. "Rebel Organizational Legacies and Civilian Victimization." With Jessica Maves Braithwaite, Kathleen Gallagher Cunningham, Margaret McWeeney and Sean Rao. 2024. Working paper.
-
 ### Other Projects
 
 * [Converting SRDP Faction IDs to UCDP Actor IDs](/conversion): A table that allows for the conversion of SRDP faction IDs into UCDP actor IDs.
