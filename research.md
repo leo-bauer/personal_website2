@@ -11,7 +11,7 @@ In addition, for several research and data collection projects I have led or par
 
 ### Peer-Reviewed Publications
 
-1. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. Forthcoming in *Social Science Quarterly*.
+1. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. *Social Science Quarterly*, Online First. [doi:10.1111/ssqu.70053](http://dx.doi.org/10.1111/ssqu.70053){:target="_blank"}{:rel="noopener noreferrer"}.
 
 2. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2025. *International Politics*, 62: 269--290. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
 
