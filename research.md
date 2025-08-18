@@ -31,7 +31,7 @@ In addition, for several research and data collection projects I have led or par
 
 ### Other Projects
 
-* Non-State Actor Data Update: Update of the NSA dataset by Cunningham, Gleditsch and Salehyan for dyads active between 2012 and 2024. I am the lead graduate research assistant for this project with responsibilities in coding rules and codebook development, coding, coder training, data collection monitoring and evaluation, data cleaning, dataset construction and preparation of the data release package. 
+* Non-State Actors in Armed Conflict Dataset Update: Update of the NSA dataset by Cunningham, Gleditsch and Salehyan for dyads active between 2012 and 2024. I am the lead graduate research assistant for this project with responsibilities in coding rules and codebook development, coding, coder training, data collection monitoring and evaluation, data cleaning, dataset construction and preparation of the data release package. 
 
 * [Converting SRDP Faction IDs to UCDP Actor IDs](/conversion): Table that allows for the conversion of SRDP faction IDs into UCDP actor IDs.
 
