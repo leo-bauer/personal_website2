@@ -37,6 +37,6 @@ In addition, for several research and data collection projects I have led or par
 
 * [Scraping Data on Peaceful Revolution Protest in East Germany](https://github.com/leo-bauer/gdr-protest-scraper){:target="_blank"}{:rel="noopener noreferrer"}: Webscraper in Python to collect protest data on the 1989--1990 Peaceful Revolution in the German Democratic Republic.
 
-* Mediation in Self-Determination Disputes Dataset: Dataset that records mediation events for a global sample of self-determination disputes between 1991 and 2015. I was a co-lead graduate research assistant for this project with responsibilities in coding, coder training, supervision of undergraduate coders, data collection monitoring and evaluation, data cleaning, dataset construction and preparation of the data release package. 
+* Mediation in Self-Determination Disputes Dataset: Dataset that records mediation events for a global sample of self-determination disputes between 1991 and 2015. I was a co-lead graduate research assistant for this NSF-funded project with responsibilities in coding, coder training, supervision of undergraduate coders, data collection monitoring and evaluation, data cleaning, dataset construction and preparation of the data release package. 
 
 * [Scraping the Archive of German Far-Right Weekly Junge Freiheit](https://github.com/leo-bauer/junge-freiheit-scraper){:target="_blank"}{:rel="noopener noreferrer"}: Webscraper in Python to collect text data from Germany’s biggest weekly far-right newspaper.
