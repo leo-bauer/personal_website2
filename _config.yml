@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "Home"
    link: "index"
+ - name: "CV"
+   link: "files/cv_bauer.pdf"
  - name: "Research"
    link: "research"
  - name: "Teaching"
