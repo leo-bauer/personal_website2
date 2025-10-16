@@ -11,7 +11,7 @@ Below there is also information on research and data collection projects I have 
 
 ### Peer-Reviewed Publications
 
-1. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2025. *Journal of Peace Research*, forthcoming. [Paper](/files/nonviolent_legacies_bauer_cunningham.pdf).
+1. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2025. *Journal of Peace Research*, forthcoming. [Paper](/files/nonviolent_legacies_bauer_cunningham.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 
 2. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. *Social Science Quarterly*, online first: 1--18. [doi:10.1111/ssqu.70053](http://dx.doi.org/10.1111/ssqu.70053){:target="_blank"}{:rel="noopener noreferrer"}.
 
