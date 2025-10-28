@@ -19,7 +19,7 @@ Below there is also information on research and data collection projects I have 
 
 4. Czymara, Christian S., and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997--2019: A Computational Approach." 2023. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
 
-### Manuscripts under Review
+### Manuscripts Under Review
 
 1. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. Revise and resubmit at *Journal of Peace Research*.
 
