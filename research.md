@@ -11,17 +11,15 @@ Below there is also information on research and data collection projects I have 
 
 ### Peer-Reviewed Publications
 
-1. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2025. *Journal of Peace Research*, forthcoming. [Paper](/files/nonviolent_legacies_bauer_cunningham.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
+1. Cunningham, David E., **Leo Bauer**, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2025. *Journal of Peace Research*, forthcoming.
 
-2. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. *Social Science Quarterly*, online first: 1--18. [doi:10.1111/ssqu.70053](http://dx.doi.org/10.1111/ssqu.70053){:target="_blank"}{:rel="noopener noreferrer"}.
+2. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2025. *Journal of Peace Research*, forthcoming. [Paper](/files/nonviolent_legacies_bauer_cunningham.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 
-3. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2023. *International Politics*, 62: 269--290. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
+3. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. *Social Science Quarterly*, online first: 1--18. [doi:10.1111/ssqu.70053](http://dx.doi.org/10.1111/ssqu.70053){:target="_blank"}{:rel="noopener noreferrer"}.
 
-4. Czymara, Christian S., and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997--2019: A Computational Approach." 2023. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
+4. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2023. *International Politics*, 62: 269--290. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
 
-### Manuscripts Under Review
-
-1. "Where Do Mediators Try to Prevent Civil War?" With David Cunningham, Megan Lloyd and Sloan Lansdale. 2025. Revise and resubmit at *Journal of Peace Research*.
+5. Czymara, Christian S., and **Leo Bauer**. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997--2019: A Computational Approach." 2023. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ### Works in Progress
 
