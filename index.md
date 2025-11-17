@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="profile1.jpg">
 
 Hi there! Thank you for stopping by.
 
