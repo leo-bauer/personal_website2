@@ -19,4 +19,6 @@ I also gave several methods workshops as part of my department's graduate method
 
 ### Workshops
 
-* [A Very Short Introduction to LaTeX](https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX){:target="_blank"}{:rel="noopener noreferrer"}: A concise workshop on creating scientific documents with LaTeX.
+* An Introduction to Webscraping: A workshop on scraping websites using Python. Fall 2023. University of Maryland, College Park, United States.
+
+* [A Very Short Introduction to LaTeX](https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX){:target="_blank"}{:rel="noopener noreferrer"}: A concise workshop on creating scientific documents with LaTeX. Fall 2021. University of Maryland, College Park, United States.
