@@ -15,10 +15,10 @@ is_contact: true
 
 ### Workshops
 
-* Graduate methods workshop organizer. Academic year 2023--2024. University of Maryland, College Park, United States.
+* Graduate methods workshop series organizer. Organized ten methods workshops for graduate students. Academic year 2023--2024. University of Maryland, College Park, United States.
 
 * An Introduction to Webscraping. Workshop on scraping websites using Python. Fall 2023. University of Maryland, College Park, United States.
 
-* An Introduction to Environmental Movements in Germany. Fall 2022, Spring 2023. University of Maryland, College Park, United States.
+* An Introduction to Environmental Movements in Germany. Guest lecture. Fall 2022, Spring 2023. University of Maryland, College Park, United States.
 
 * [A Very Short Introduction to LaTeX](https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX){:target="_blank"}{:rel="noopener noreferrer"}. Workshop on creating scientific documents with LaTeX. Fall 2021. University of Maryland, College Park, United States.
