@@ -5,10 +5,6 @@ is_contact: true
 
 ## Teaching
 
-In summer 2024, I taught our department's introduction to International Relations class for undergraduate students. I was the teaching assistant for my department's graduate-level applied social data science class in fall 2023. In addition, I gave guest lectures on environmental politics in Germany for two undergraduate classes in the 2022--2023 academic year.
-
-I also gave several methods workshops as part of my department's graduate methods workshop series. You can find the workshop materials below. Further, I served as our department's graduate methods workshop organizer for the 2023--2024 academic year, organizing ten workshops by and for graduate students on a broad range of quantitative and qualitative methods as well as an outside speaker event. 
-
 ### Classes
 
 1. GVPT200 Introduction to International Relations. Instructor (undergraduate level). Summer 2024. University of Maryland, College Park, United States.
@@ -19,6 +15,8 @@ I also gave several methods workshops as part of my department's graduate method
 
 ### Workshops
 
-* An Introduction to Webscraping: A workshop on scraping websites using Python. Fall 2023. University of Maryland, College Park, United States.
+* An Introduction to Webscraping. Workshop on scraping websites using Python. Fall 2023. University of Maryland, College Park, United States.
 
-* [A Very Short Introduction to LaTeX](https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX){:target="_blank"}{:rel="noopener noreferrer"}: A concise workshop on creating scientific documents with LaTeX. Fall 2021. University of Maryland, College Park, United States.
+* An Introduction to Environmental Movements in Germany. Fall 2022, Spring 2023. University of Maryland, College Park, United States.
+
+* [A Very Short Introduction to LaTeX](https://github.com/gsa-gvpt/gvpt-methods/tree/master/introLaTeX){:target="_blank"}{:rel="noopener noreferrer"}. Workshop on creating scientific documents with LaTeX. Fall 2021. University of Maryland, College Park, United States.
