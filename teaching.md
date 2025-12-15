@@ -15,6 +15,8 @@ is_contact: true
 
 ### Workshops
 
+* Graduate methods workshop organizer. Academic year 2023--2024. University of Maryland, College Park, United States.
+
 * An Introduction to Webscraping. Workshop on scraping websites using Python. Fall 2023. University of Maryland, College Park, United States.
 
 * An Introduction to Environmental Movements in Germany. Fall 2022, Spring 2023. University of Maryland, College Park, United States.
