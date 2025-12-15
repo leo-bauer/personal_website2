@@ -5,10 +5,6 @@ is_contact: true
 
 ## Research
 
-I currently have five peer-reviewed publications and multiple works in progress. 
-
-Below there is also information on my current and past research and data collection projects. Some of them are linked to GitHub repositories with tutorials and code.
-
 ### Peer-Reviewed Publications
 
 1. Cunningham, David E., **Leo Bauer**, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2025. *Journal of Peace Research*, forthcoming. [Preprint](/files/mediation_cunningham_bauer_lansdale_lloyd.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
