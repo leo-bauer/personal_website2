@@ -7,9 +7,9 @@ is_contact: true
 
 ### Peer-Reviewed Publications
 
-1. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2025. *Journal of Peace Research*, forthcoming. [Preprint](/files/nonviolent_legacies_bauer_cunningham.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
+1. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2026. *Journal of Peace Research*, forthcoming. [Preprint](/files/nonviolent_legacies_bauer_cunningham.pdf){:target="_blank"}{:rel="noopener noreferrer"}.
 
-2. Cunningham, David E., **Leo Bauer**, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2025. *Journal of Peace Research*, online first. [doi:10.1093/jopres/xjaf033](https://doi.org/10.1093/jopres/xjaf033){:target="_blank"}{:rel="noopener noreferrer"}.
+2. Cunningham, David E., **Leo Bauer**, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2026. *Journal of Peace Research*, online first. [doi:10.1093/jopres/xjaf033](https://doi.org/10.1093/jopres/xjaf033){:target="_blank"}{:rel="noopener noreferrer"}.
 
 3. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. *Social Science Quarterly*, online first. [doi:10.1111/ssqu.70053](http://dx.doi.org/10.1111/ssqu.70053){:target="_blank"}{:rel="noopener noreferrer"}.
 
