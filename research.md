@@ -11,7 +11,7 @@ is_contact: true
 
 2. Cunningham, David E., **Leo Bauer**, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2026. *Journal of Peace Research*, online first. [doi:10.1093/jopres/xjaf033](https://doi.org/10.1093/jopres/xjaf033){:target="_blank"}{:rel="noopener noreferrer"}.
 
-3. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. *Social Science Quarterly*, online first. [doi:10.1111/ssqu.70053](http://dx.doi.org/10.1111/ssqu.70053){:target="_blank"}{:rel="noopener noreferrer"}.
+3. Gelvez, Juan David, and **Leo Bauer**. "Climate Disasters, Armed Conflict, and Forced Displacement: A 23-Year Spatial Analysis in Colombia." 2025. *Social Science Quarterly*, 106(4): 1--18. [doi:10.1111/ssqu.70053](http://dx.doi.org/10.1111/ssqu.70053){:target="_blank"}{:rel="noopener noreferrer"}.
 
 4. McWeeney, Margaret, Kathleen Gallagher Cunningham, and **Leo Bauer**. "Rebel Actors and Legitimacy Building." 2023. *International Politics*, 62: 269--290. [doi:10.1057/s41311-023-00493-1](https://doi.org/10.1057/s41311-023-00493-1){:target="_blank"}{:rel="noopener noreferrer"}.
 
