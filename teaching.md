@@ -13,11 +13,11 @@ is_contact: true
 
 3. Longitudinal Data Analysis and Causality. Teaching assistant, graduate level. Winter term 2020--2021. Goethe University Frankfurt, Germany.
 
-### Workshops
-
-* Graduate methods workshop series organizer. Academic year 2023--2024. University of Maryland, College Park, United States.
+### Invited Talks and Workshops
 
 * An Introduction to Webscraping. Graduate methods workshop. Fall 2023. University of Maryland, College Park, United States.
+
+* How Location Matters for Autocratic Media: Newspaper Coverage and Censorship of Anti-Regime Protest. Comparative Politics workshop. Fall 2023. University of Maryland, College Park, United States.
 
 * An Introduction to Environmental Movements in Germany. Guest lecture. Fall 2022, Spring 2023. University of Maryland, College Park, United States.
 
