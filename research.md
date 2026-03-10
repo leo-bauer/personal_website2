@@ -19,7 +19,7 @@ is_contact: true
 
 ### Works in Progress
 
-1. "The Non-State Actors in Armed Conflict Dataset Update." With David Cunningham and Olivia Bauer. 2025. Early draft.
+1. "The Non-State Actors in Armed Conflict Dataset Update." With David Cunningham and Olivia Bauer. 2026. Early draft.
 
 2. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
 
