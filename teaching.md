@@ -13,7 +13,7 @@ is_contact: true
 
 3. Longitudinal Data Analysis and Causality. **Teaching assistant**, graduate level. Winter term 2020--2021. Goethe University Frankfurt, Germany.
 
-### Invited Talks and Workshops
+### Workshops and Invited Talks
 
 * An Introduction to Webscraping. Graduate methods workshop. Fall 2023. University of Maryland, College Park, United States.
 
