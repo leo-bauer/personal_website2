@@ -25,11 +25,9 @@ is_contact: true
 
 3. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper. 
 
-### Current Projects
+### Recent Projects
 
 * Non-State Actors in Armed Conflict Dataset Update: Update of the NSA dataset by Cunningham, Gleditsch and Salehyan for dyads active between 2012 and 2024. I am the lead graduate research assistant for this project with responsibilities in coding rules and codebook development, coding, coder training, data collection monitoring and inter-coder reliability evaluation, data cleaning, dataset construction and preparation of the data release package.
-
-### Past Projects
 
 * [Mediation in Self-Determination Disputes Dataset](https://doi.org/10.7910/DVN/SA4KYD){:target="_blank"}{:rel="noopener noreferrer"}: Dataset that records mediation events for a global sample of self-determination disputes between 1991 and 2015. I was a co-lead graduate research assistant for this NSF-funded project with responsibilities in codebook development, coding, coder training and supervision, data collection monitoring and evaluation, data cleaning, dataset construction and preparation of the data release package. 
 
