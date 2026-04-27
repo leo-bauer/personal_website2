@@ -19,7 +19,7 @@ is_contact: true
 
 ### Works in Progress
 
-1. "Presenting the Updated Non-State Actor Dataset." With David Cunningham, Olivia Bauer, Idean Salehyan and Kristian Skrede Gleditsch. 2026. Early draft.
+1. "Presenting the Updated Non-State Actor Dataset." With David Cunningham, Olivia Bauer, Kristian Skrede Gleditsch and Idean Salehyan. 2026. Early draft.
 
 2. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
 
