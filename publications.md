@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## Research
+## Publications
 
 ### Peer-Reviewed Publications
 
