@@ -27,10 +27,10 @@ This dataset is the update of the Non-State Actor Data (NSA) by Cunningham, Gled
 
 ### Data Collection Scripts
 
-* [Scraping Data on Peaceful Revolution Protest in East Germany](https://github.com/leo-bauer/gdr-protest-scraper){:target="_blank"}{:rel="noopener noreferrer"}
+* **Peaceful Revolution Protest Event Data Scraper**
 
-This webscraper allows for the collection of protest event data on the 1989--1990 Peaceful Revolution in the German Democratic Republic from the most comprehensive publicly available archive. The webscraper is written in Python.
+This webscraper allows for the collection of protest event data on the 1989--1990 Peaceful Revolution in the German Democratic Republic from the most comprehensive publicly available archive. The webscraper is written in Python. Access the webscraper [here](https://github.com/leo-bauer/gdr-protest-scraper){:target="_blank"}{:rel="noopener noreferrer"}.
 
-* [Scraping the Archive of German Far-Right Weekly Junge Freiheit](https://github.com/leo-bauer/junge-freiheit-scraper){:target="_blank"}{:rel="noopener noreferrer"}
+* **Junge Freiheit Archive Scraper**
 
-This webscraper allows for the collection of text data from *Junge Freiheit*, Germany’s biggest weekly far-right newspaper. The webscraper is written in Python.
+This webscraper allows for the collection of text data for all articles published between 1997 and 2019 in *Junge Freiheit*, Germany’s biggest weekly far-right newspaper. The webscraper is written in Python. Access the webscraper [here](https://github.com/leo-bauer/junge-freiheit-scraper){:target="_blank"}{:rel="noopener noreferrer"}.
