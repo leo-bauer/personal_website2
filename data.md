@@ -19,7 +19,7 @@ This dataset contains all Strategies of Resistance Data Project (SRDP) faction I
 
 Cite as: Bauer, Leo, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2026. *Journal of Peace Research*, 63(3): 309--320. [doi:10.1093/jopres/xjaf024](https://doi.org/10.1093/jopres/xjaf024){:target="_blank"}{:rel="noopener noreferrer"}.
 
-### Unpublished Datasets
+### Datasets in Progress
 
 * **Rebel-Civilian Social Ties Dataset**
 
