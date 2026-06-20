@@ -7,7 +7,7 @@ is_contact: true
 
 ### Peer-Reviewed Publications
 
-1. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2026. *Journal of Peace Research*, online first. [doi:10.1093/jopres/xjaf024](https://doi.org/10.1093/jopres/xjaf024){:target="_blank"}{:rel="noopener noreferrer"}.
+1. **Bauer, Leo**, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2026. *Journal of Peace Research*, 63(3): 309--320. [doi:10.1093/jopres/xjaf024](https://doi.org/10.1093/jopres/xjaf024){:target="_blank"}{:rel="noopener noreferrer"}.
 
 2. Cunningham, David E., **Leo Bauer**, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2026. *Journal of Peace Research*, online first. [doi:10.1093/jopres/xjaf033](https://doi.org/10.1093/jopres/xjaf033){:target="_blank"}{:rel="noopener noreferrer"}.
 
