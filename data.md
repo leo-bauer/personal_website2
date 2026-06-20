@@ -7,10 +7,6 @@ is_contact: true
 
 ### Published Datasets
 
-* **Rebel-Civilian Social Ties Dataset**
-
-This dataset records the existence of social ties between rebels and civilians at the outset of conflict. It records  
-
 * **Mediation in Self-Determination Disputes Dataset**
 
 Th Mediation in Self-Determination Disputes Dataset (MSDD) provides original mediation event data for a global sample of self-determination disputes between 1991 and 2015, both during and outside of civil conflict. We record three types of mediation events: bilateral mediation with only one side of the dispute and a mediator present, direct mediation with both sides and a mediator present as well as shuttle diplomacy. We sampled disputes randomly and the MSDD contains 1,285 mediation events for 51 disputes spanning 1,131 dispute-years. The MSDD allows us to test theoretical expectations about the use of mediation to prevent civil war. Access the data [here](https://doi.org/10.7910/DVN/SA4KYD){:target="_blank"}{:rel="noopener noreferrer"}.
@@ -19,11 +15,15 @@ Cite as: Cunningham, David E., Leo Bauer, Sloan Lansdale, and Megan Lloyd. "Unde
 
 * **SRDP to UCDP Conversion Dataset**
 
-This dataset contains all Strategies of Resistance Data Project (SRDP) faction IDs that match a UCDP actor ID and thus allows for merging SRDP with UCDP data. To construct the dataset, I matched SRDP factions with UCDP actors via both an automated string matching technique and manual matching. As SRDP factions are sometimes more disaggregated than UCDP actors, several SRDP factions may match with the same UCDP actor but not the other way around. The dataset thus contains 230 SRDP factions and 141 UCDP non-state actors. Access the data [here](https://leo-bauer.com/files/srdp-ucdp_conversion.csv).
+This dataset contains all Strategies of Resistance Data Project (SRDP) faction IDs that match an Uppsala Conflict Data Program (UCDP) actor ID and thus allows for merging SRDP with UCDP data. To construct the dataset, I matched SRDP factions with UCDP non-state actors engaged in state-based conflict via both an automated string matching technique and manual matching. As SRDP factions are sometimes more disaggregated than UCDP actors, several SRDP factions may match with the same UCDP actor but not the other way around. The dataset thus contains 230 SRDP factions and 141 UCDP non-state actors. Access the data [here](https://leo-bauer.com/files/srdp-ucdp_conversion.csv).
 
 Cite as: Bauer, Leo, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2026. *Journal of Peace Research*, 63(3): 309--320. [doi:10.1093/jopres/xjaf024](https://doi.org/10.1093/jopres/xjaf024){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ### Unpublished Datasets
+
+* **Rebel-Civilian Social Ties Dataset**
+
+This dataset records the existence of social ties between rebels and civilians at the outset of conflict. Social ties between rebels and civilians are present if at conflict onset (1) the majority of a rebel group’s members and leadership originate from a delimited geographical location such as an urban neighborhood, village, town, or a cluster of such localities that is smaller than a first-order administrative boundary and (2) the group is based in and challenges the state in this area. I record social ties as a binary variable for all UCDP non-state actors engaged in state-based conflict active between 1990 and 2018, resulting in a dataset comprising 358 dyads. I document all coding decisions and sources consulted in a coding appendix.
 
 * **Non-State Actors in Armed Conflict Dataset Update**
 
