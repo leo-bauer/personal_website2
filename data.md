@@ -7,12 +7,6 @@ is_contact: true
 
 ### Published Datasets
 
-* Non-State Actors in Armed Conflict Dataset Update
-
-This dataset is the update of the Non-State Actor Data (NSA) by Cunningham, Gleditsch and Salehyan. We updated all variables that record information on rebel characteristics for dyads active between 2012 and 2024. The up
-
-Cite as: 
-
 * [Mediation in Self-Determination Disputes Dataset](https://doi.org/10.7910/DVN/SA4KYD){:target="_blank"}{:rel="noopener noreferrer"}
 
 Th Mediation in Self-Determination Disputes Dataset (MSDD) provides original mediation event data for a global sample of self-determination disputes between 1991 and 2015, both during and outside of civil conflict. We record three types of mediation events: bilateral mediation with only one side of the dispute and a mediator present, direct mediation with both sides and a mediator present as well as shuttle diplomacy. We sampled disputes randomly and the MSDD contains 1,285 mediation events for 51 disputes spanning 1,131 dispute-years. The MSDD allows us to test theoretical expectations about the use of mediation to prevent civil war. 
@@ -25,11 +19,17 @@ This dataset contains all SRDP faction IDs that match a UCDP actor ID and can th
 
 Cite as: Bauer, Leo, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2026. *Journal of Peace Research*, 63(3): 309--320. [doi:10.1093/jopres/xjaf024](https://doi.org/10.1093/jopres/xjaf024){:target="_blank"}{:rel="noopener noreferrer"}.
 
+### Unpublished Datasets
+
+* Non-State Actors in Armed Conflict Dataset Update
+
+This dataset is the update of the Non-State Actor Data (NSA) by Cunningham, Gleditsch and Salehyan. We code all variables that record information on rebel characteristics for dyads active between 2012 and 2024, excluding external support variables. With the update we add more than 250 dyad spells to the original NSA and make the NSA fully compatible with v24.1 of the UCDP Armed Conflict Dataset. The dataset allows us to explore trends in rebel organizational characteristics and capabilities over time for a comprehensive sample of rebel groups.
+
 ### Data Collection Scripts
 
 * [Scraping Data on Peaceful Revolution Protest in East Germany](https://github.com/leo-bauer/gdr-protest-scraper){:target="_blank"}{:rel="noopener noreferrer"}
 
-This webscraper allows for the collection of protest event data on the 1989--1990 Peaceful Revolution in the German Democratic Republic, from the most comprehensive publicly available archive. The webscraper is written in Python.
+This webscraper allows for the collection of protest event data on the 1989--1990 Peaceful Revolution in the German Democratic Republic from the most comprehensive publicly available archive. The webscraper is written in Python.
 
 * [Scraping the Archive of German Far-Right Weekly Junge Freiheit](https://github.com/leo-bauer/junge-freiheit-scraper){:target="_blank"}{:rel="noopener noreferrer"}
 
