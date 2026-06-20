@@ -19,13 +19,15 @@ is_contact: true
 
 ### Works in Progress
 
-1. "Innovating the Measurement of Violence Against Civilians in Civil War." 2026. Working paper.
+1. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." 2026. Early draft.
 
-2. "Presenting the Updated Non-State Actor Dataset." With David Cunningham, Olivia Bauer, Kristian Skrede Gleditsch and Idean Salehyan. 2026. Early draft.
+2. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Working paper.
 
-3. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
+3. "Presenting the Updated Non-State Actor Dataset." With David Cunningham, Olivia Bauer, Kristian Skrede Gleditsch and Idean Salehyan. 2026. Early draft.
 
-4. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper. 
+4. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
+
+5. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper. 
 
 ### Recent Projects
 
