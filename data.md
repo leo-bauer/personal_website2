@@ -15,7 +15,7 @@ Cite as: Cunningham, David E., Leo Bauer, Sloan Lansdale, and Megan Lloyd. "Unde
 
 * **SRDP to UCDP Conversion Dataset**
 
-This dataset contains all Strategies of Resistance Data Project (SRDP) faction IDs that match an Uppsala Conflict Data Program (UCDP) actor ID and thus allows for merging SRDP with UCDP data. To construct the dataset, I matched SRDP factions with UCDP non-state actors engaged in state-based conflict via both an automated string matching technique and manual matching. As SRDP factions are sometimes more disaggregated than UCDP actors, several SRDP factions may match with the same UCDP actor but not the other way around. The dataset thus contains 230 SRDP factions and 141 UCDP non-state actors. Access the data [here](https://leo-bauer.com/files/srdp-ucdp_conversion.csv).
+This dataset contains all Strategies of Resistance Data Project (SRDP) faction IDs that match an Uppsala Conflict Data Program (UCDP) actor ID and thus allows for merging SRDP with UCDP data. To construct the dataset, I matched SRDP factions with UCDP non-state actors engaged in state-based conflict via both an automated string matching technique and manual matching. As SRDP factions are sometimes more disaggregated than UCDP actors, several SRDP factions may match with the same UCDP actor but not the other way around. The dataset contains 230 SRDP factions and 141 UCDP non-state actors. Access the data [here](https://leo-bauer.com/files/srdp-ucdp_conversion.csv).
 
 Cite as: Bauer, Leo, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies of Rebel Group Origins." 2026. *Journal of Peace Research*, 63(3): 309--320. [doi:10.1093/jopres/xjaf024](https://doi.org/10.1093/jopres/xjaf024){:target="_blank"}{:rel="noopener noreferrer"}.
 
