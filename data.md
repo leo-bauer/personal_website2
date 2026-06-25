@@ -23,7 +23,7 @@ Cite as: Bauer, Leo, and Kathleen Gallagher Cunningham. "The Nonviolent Legacies
 
 * **Rebel-Civilian Social Ties Dataset**
 
-This dataset records the existence of social ties between rebels and civilians at the outset of conflict. Social ties between rebels and civilians are present if at conflict onset (1) the majority of a rebel group’s members and leadership originate from a delimited geographical location such as an urban neighborhood, village, town, or a cluster of such localities that is smaller than a first-order administrative boundary and (2) the group is based in and challenges the state in this area. I record social ties as a binary variable for all UCDP non-state actors engaged in state-based conflict active between 1990 and 2018, resulting in a dataset comprising 358 dyads. I document all coding decisions and sources consulted in a coding appendix.
+This dataset records the existence of social ties between rebels and civilians at the outset of conflict. Social ties between rebels and civilians are present if at conflict onset (1) the majority of a rebel group’s members and leadership originate from a delimited geographical location such as an urban neighborhood, village, town, or a cluster of such localities that is smaller than a first-order administrative boundary and (2) the group is based in and challenges the state in this area. I record social ties as a binary variable for all UCDP non-state actors engaged in state-based conflict active between 1990 and 2018, resulting in a dataset comprising 358 dyads. 
 
 * **Non-State Actors in Armed Conflict Dataset Update**
 
