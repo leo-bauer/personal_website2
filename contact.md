@@ -13,10 +13,10 @@ is_contact: true
 
 * Mailing address:
 
-> 3140 Tydings Hall
+> Bilkent University
 > 
-> 7343 Preinkert Drive
+> Üniversiteler Mah. 1609. Sk. No:10
 > 
-> College Park, MD 20742
+> 06800 Bilkent
 > 
-> United States
+> Çankaya/Ankara, Turkey
