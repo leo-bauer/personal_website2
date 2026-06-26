@@ -38,3 +38,5 @@ This webscraper allows for the collection of protest event data on the 1989--199
 * **Junge Freiheit News Archive Scraper**
 
 This webscraper allows for the collection of text data for all articles published between 1997 and 2019 in *Junge Freiheit*, Germany’s biggest weekly far-right newspaper. The webscraper is written in Python. Access the webscraper [here](https://github.com/leo-bauer/junge-freiheit-scraper){:target="_blank"}{:rel="noopener noreferrer"}.
+
+Czymara, Christian S., and Leo Bauer. "Discursive Shifts in the German Right-Wing Newspaper Junge Freiheit 1997--2019: A Computational Approach." 2023. *German Politics*, 34(1): 128--155. [doi:10.1080/09644008.2023.2231353](https://doi.org/10.1080/09644008.2023.2231353){:target="_blank"}{:rel="noopener noreferrer"}.
