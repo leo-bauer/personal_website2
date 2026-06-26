@@ -27,7 +27,7 @@ This dataset records the existence of social ties between rebels and civilians a
 
 * **Non-State Actors in Armed Conflict Dataset Update**
 
-This dataset is the update of the Non-State Actor Data (NSA) by Cunningham, Gleditsch and Salehyan. We code all variables that record information on rebel characteristics for dyads active between 2012 and 2024, excluding external support variables. With the update we add more than 250 dyad spells to the original NSA and make the NSA fully compatible with v24.1 of the UCDP Armed Conflict Dataset. The dataset allows us to explore trends in rebel organizational characteristics and capabilities over time for a comprehensive sample of rebel groups.
+The Non-State Actor Data (NSA) Update builds on the original NSA by Cunningham, Gleditsch and Salehyan, whose coverage ends in 2011. We code all variables that record information on rebel characteristics for dyads active between 2012 and 2024, excluding external support variables. With the update we add more than 250 dyad spells to the original NSA and make the NSA fully compatible with v24.1 of the UCDP Armed Conflict Dataset. The dataset allows us to explore trends in rebel organizational characteristics and capabilities over time for a comprehensive sample of rebel groups.
 
 ### Data Collection Scripts
 
