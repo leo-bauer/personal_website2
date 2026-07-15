@@ -13,6 +13,8 @@ is_contact: true
 
 * Mailing address:
 
+>Bilkent University
+>
 > Üniversiteler Mah. 1609. Sk. No:10
 > 
 > 06800 Bilkent
