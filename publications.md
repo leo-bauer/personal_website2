@@ -19,11 +19,11 @@ is_contact: true
 
 ### Works in Progress
 
-1. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." 2026. Early draft.
+1. "Presenting the Updated Non-State Actor Dataset." With David Cunningham, Olivia Bauer, Kristian Skrede Gleditsch and Idean Salehyan. 2026. Under review.
 
-2. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Working paper.
+2. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." 2026. Early draft.
 
-3. "Presenting the Updated Non-State Actor Dataset." With David Cunningham, Olivia Bauer, Kristian Skrede Gleditsch and Idean Salehyan. 2026. Working paper.
+3. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Working paper.
 
 4. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
 
