@@ -23,8 +23,8 @@ is_contact: true
 
 2. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." 2026. Early draft.
 
-3. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Working paper.
+<!---3. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Working paper.-->
 
-4. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
+3. "Explaining Informant Recruitment Tactics by Coercive Institutions in Autocracies." 2025. Early draft.
 
-5. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper. 
+4. "Media Manipulation Strategies During Protest in Autocracies: Evidence from the German Democratic Republic." 2025. Working paper. 
