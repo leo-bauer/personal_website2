@@ -11,7 +11,7 @@ is_contact: true
 
 Th Mediation in Self-Determination Disputes Dataset (MSDD) provides original mediation event data for a global sample of self-determination disputes between 1991 and 2015, both during and outside of civil conflict. We record three types of mediation events: bilateral mediation with only one side of the dispute and a mediator present, direct mediation with both sides and a mediator present as well as shuttle diplomacy. We sampled disputes randomly and the MSDD contains 1,285 mediation events for 51 disputes spanning 1,131 dispute-years. The MSDD allows us to test theoretical expectations about the use of mediation to prevent civil war. Access the data [here](https://doi.org/10.7910/DVN/SA4KYD){:target="_blank"}{:rel="noopener noreferrer"}.
 
-Cite as: Cunningham, David E., Leo Bauer, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2026. *Journal of Peace Research*, online first. [doi:10.1093/jopres/xjaf033](https://doi.org/10.1093/jopres/xjaf033){:target="_blank"}{:rel="noopener noreferrer"}.
+Cite as: Cunningham, David E., Leo Bauer, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2026. *Journal of Peace Research*, 63(4): 549--561. [doi:10.1093/jopres/xjaf033](https://doi.org/10.1093/jopres/xjaf033){:target="_blank"}{:rel="noopener noreferrer"}.
 
 * **SRDP to UCDP Conversion Dataset**
 
