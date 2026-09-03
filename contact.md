@@ -5,7 +5,7 @@ is_contact: true
 
 ## Contact
 
-* Email: leobauer [at] umd [dot] edu
+* Email: bauer [at] bilkent [dot] edu [dot] tr
 
 * [GitHub](https://github.com/leo-bauer){:target="_blank"}{:rel="noopener noreferrer"}
 
