@@ -23,6 +23,6 @@ is_contact: true
 
 1. "Examining the Use of Urban Development Programs for Counterinsurgency Policy: Evidence from Turkey." With Yusuf Evirgen. 2026. Data collection in progress.
 
-2. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Under review.
+2. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." 2026. Draft in progress.
 
-3. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." 2026. Draft in progress.
+3. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Under review.
