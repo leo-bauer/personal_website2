@@ -25,4 +25,4 @@ is_contact: true
 
 2. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." 2026. Draft in progress.
 
-3. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Under review.
+3. "Innovating the Measurement of Violence Against Civilians in Civil War: Evidence on Territorial Control." 2026. Draft in progress.
