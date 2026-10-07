@@ -11,7 +11,7 @@ is_contact: true
 
 This dataset records the existence of social ties between rebels and civilians at the outset of conflict. Social ties between rebels and civilians are present if at conflict onset (1) the majority of a rebel group’s members and leadership originate from a delimited geographical location such as an urban neighborhood, village, town, or a cluster of such localities that is smaller than a first-order administrative boundary and (2) the group is based in and challenges the state in this area. I record social ties as a binary variable for all UCDP non-state actors engaged in state-based conflict active between 1990 and 2018, resulting in a dataset comprising 358 dyads. Access the data [here](https://doi.org/10.7910/DVN/533DTD){:target="_blank"}{:rel="noopener noreferrer"}.
 
-Cite as: Bauer, Leo. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." PhD dissertation, University of Maryland, College Park. [https://www.proquest.com/dissertations-theses/rebel-civilian-social-ties-their-effects-on/docview/3390364069/se-2](https://www.proquest.com/dissertations-theses/rebel-civilian-social-ties-their-effects-on/docview/3390364069/se-2){:target="_blank"}{:rel="noopener noreferrer"}.
+Cite as: Bauer, Leo. "Rebel-Civilian Social Ties and Their Effects on Violence Against Civilians in Civil War." PhD dissertation, University of Maryland, College Park.
 
 * **Mediation in Self-Determination Disputes Dataset**
 
