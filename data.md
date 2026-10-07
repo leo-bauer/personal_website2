@@ -33,7 +33,7 @@ The Non-State Actor Data (NSA) Update builds on the original NSA by Cunningham, 
 
 * **Government-Constituency Relations Dataset**
 
-Built as part of ERC project COUNSTER, the Government-Constituency Relations Dataset (GovConReD) records information on government relations with rebel groups' civilian constituencies in civil war. We record a range of nonviolent and violent tactics with which governments engage rebel group constituencies. The dataset covers all active UCDP dyads between 1991 and 2025 and is structured in a government-rebel-constituency triad format. This dataset allows us to study the determinants and consequences of government concessions towards and repression of rebels' civilian constituencies in conflict.
+Built as part of ERC project COUNSTER, the Government-Constituency Relations Dataset (GovConReD) records information on government relations with rebel groups' civilian constituencies in civil war. We record a range of nonviolent and violent tactics with which governments engage rebel group constituencies. The dataset covers all active UCDP dyads between 1991 and 2025 and is structured in a government-rebel-constituency triad format. This dataset allows us to study the determinants and consequences of government concessions towards, and repression against, rebels' civilian constituencies in conflict.
 
 ### Webscrapers
 
