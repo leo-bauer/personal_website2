@@ -7,7 +7,7 @@ is_contact: true
 
 ### Peer-Reviewed Publications
 
-1. Cunningham, David E., **Leo Bauer**, Olivia Bauer, Kristian Skrede Gleditsch, and Idean Salehyan. "Presenting the Updated Non-State Actor Dataset." 2026. *Journal of Conflict Resolution*, online first. [doi:10.1177/00220027261495531](https://doi.org/10.1177/00220027261495531){:target="_blank"}{:rel="noopener noreferrer"}.
+1. Cunningham, David E., **Leo Bauer**, Olivia Bauer, Kristian Skrede Gleditsch, and Idean Salehyan. "Presenting the Updated Non-State Actor Dataset." 2026. *Journal of Conflict Resolution*, online first. [doi:10.1177/00220027261495531](https://doi.org/10.1177/00220027261495531){:target="_blank"}{:rel="noopener noreferrer"}.x
 
 2. Cunningham, David E., **Leo Bauer**, Sloan Lansdale, and Megan Lloyd. "Under What Conditions Does Preventive Mediation Occur in Self-Determination Disputes?" 2026. *Journal of Peace Research*, 63(4): 549--561. [doi:10.1093/jopres/xjaf033](https://doi.org/10.1093/jopres/xjaf033){:target="_blank"}{:rel="noopener noreferrer"}.
 
